@@ -1,0 +1,20 @@
+C:\File\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\5\Clase3\Clase3\obj\Debug\Clase3.csprojAssemblyReference.cache
+C:\File\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\5\Clase3\Clase3\obj\Debug\Cina.Form1.resources
+C:\File\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\5\Clase3\Clase3\obj\Debug\Clase3.Properties.Resources.resources
+C:\File\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\5\Clase3\Clase3\obj\Debug\Clase3.csproj.GenerateResource.cache
+C:\File\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\5\Clase3\Clase3\obj\Debug\Clase3.csproj.CoreCompileInputs.cache
+C:\File\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\5\Clase3\Clase3\bin\Debug\Clase3.exe.config
+C:\File\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\5\Clase3\Clase3\bin\Debug\Clase3.exe
+C:\File\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\5\Clase3\Clase3\bin\Debug\Clase3.pdb
+C:\File\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\5\Clase3\Clase3\obj\Debug\Clase3.exe
+C:\File\OneDrive\Invatamant\Master\Limbaje si sisteme contemporane de programe 2\LABORATOARE\5\Clase3\Clase3\obj\Debug\Clase3.pdb
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\5\Clase3\Clase3\bin\Debug\Clase3.exe.config
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\5\Clase3\Clase3\bin\Debug\Clase3.exe
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\5\Clase3\Clase3\bin\Debug\Clase3.pdb
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\5\Clase3\Clase3\obj\Debug\Clase3.csprojAssemblyReference.cache
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\5\Clase3\Clase3\obj\Debug\Cina.Form1.resources
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\5\Clase3\Clase3\obj\Debug\Clase3.Properties.Resources.resources
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\5\Clase3\Clase3\obj\Debug\Clase3.csproj.GenerateResource.cache
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\5\Clase3\Clase3\obj\Debug\Clase3.csproj.CoreCompileInputs.cache
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\5\Clase3\Clase3\obj\Debug\Clase3.exe
+C:\Users\Tatiana Spatari\Desktop\Laboratoare\5\Clase3\Clase3\obj\Debug\Clase3.pdb
